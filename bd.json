@@ -5,150 +5,150 @@
     "type": "district",
     "sub": [{
         "bn_name": "ছাগলনাইয়া",
-        "en_name": "",
+        "en_name": "chhagalnaiya",
         "value": "3014",
         "type": "upozila",
         "sub": [{
             "bn_name": "ঘোপাল",
-            "en_name": "",
+            "en_name": "ghopal",
             "value": "301447",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "মহামায়া",
-            "en_name": "",
+            "en_name": "mahamaya",
             "value": "301457",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "পাঠান নগর",
-            "en_name": "",
+            "en_name": "pathan nagar",
             "value": "301476",
             "type": "union",
             "sub": []
         }, {
-            "bn_name": "রাধানগর",
+            "bn_name": "radhanagar",
             "en_name": "",
             "value": "301485",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "শুভপুর",
-            "en_name": "",
+            "en_name": "shuvopur",
             "value": "301495",
             "type": "union",
             "sub": []
         }]
     }, {
         "bn_name": "দাগনভূঁঞা",
-        "en_name": "",
+        "en_name": "daganabhua",
         "value": "3025",
         "type": "upozila",
         "sub": [{
             "bn_name": "দাগনভূঁঞা",
-            "en_name": "",
+            "en_name": "daganabhua",
             "value": "302512",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "জায়লস্কর",
-            "en_name": "",
+            "en_name": "jayalaskar",
             "value": "302538",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "মাতুভূঁঞা",
-            "en_name": "",
+            "en_name": "matubhuya",
             "value": "302556",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "পূর্ব চন্দ্রপুর",
-            "en_name": "",
+            "en_name": "purbo chandrapur",
             "value": "302569",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "রাজাপুর",
-            "en_name": "",
+            "en_name": "rajapur",
             "value": "302573",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "রামনগর",
-            "en_name": "",
+            "en_name": "ramnagar",
             "value": "302577",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "সিন্দুরপুর",
-            "en_name": "",
+            "en_name": "sindurapur",
             "value": "302590",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "ইয়াকুবপুর",
-            "en_name": "",
+            "en_name": "yakubpur",
             "value": "302594",
             "type": "union",
             "sub": []
         }]
     }, {
         "bn_name": "ফেনী সদর",
-        "en_name": "",
+        "en_name": "feni sadar",
         "value": "3029",
         "type": "upozila",
         "sub": [{
             "bn_name": "বালিগাঁও",
-            "en_name": "",
+            "en_name": "baligaon",
             "value": "302920",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "ধলিয়া",
-            "en_name": "",
+            "en_name": "dhaliya",
             "value": "302922",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "ধর্মপুর",
-            "en_name": "",
+            "en_name": "dharmapur",
             "value": "302923",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "ফরহাদনগর",
-            "en_name": "",
+            "en_name": "farhadnagar",
             "value": "302925",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "ফাজিলপুর",
-            "en_name": "",
+            "en_name": "fajilpur",
             "value": "302930",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "কালীদহ",
-            "en_name": "",
+            "en_name": "kalidoho",
             "value": "302943",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "কাজির বাগ",
-            "en_name": "",
+            "en_name": "kazir bag",
             "value": "302947",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "লেমুয়া",
-            "en_name": "",
+            "en_name": "lemuya",
             "value": "302951",
             "type": "union",
             "sub": []
         }, {
             "bn_name": "মোটবী",
-            "en_name": "",
+            "en_name": "motobi",
             "value": "302960",
             "type": "union",
             "sub": []
